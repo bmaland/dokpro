@@ -1,0 +1,10 @@
+Python-bibliotek for å hente ut data fra dokpro-ordboken:
+http://www.dokpro.uio.no/ordboksoek.html
+
+Bruk:
+
+dokpro = Dokpro("nynorsk")
+dokpro.search("staut")
+for word in dokpro.words():
+  print word
+

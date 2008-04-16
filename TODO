@@ -1,0 +1,3 @@
+* Fungerer ikke for alle ord, pga variasjoner i html-strukturen til dokpro.
+* Finne ut hvordan man slipper å gjøre sys.append().. triks.
+
